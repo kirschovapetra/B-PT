@@ -1,0 +1,6 @@
+﻿  Source.cpp
+c:\users\pepa\google drive\škola\vš\poznamky\bc2 zim\programovacie_techniky\cvika\cvicenie 06 25.10.2018\zaklady c++\zaklady c++\source.cpp(29): warning C4101: 'my_struct': unreferenced local variable
+c:\users\pepa\google drive\škola\vš\poznamky\bc2 zim\programovacie_techniky\cvika\cvicenie 06 25.10.2018\zaklady c++\zaklady c++\source.cpp(15): warning C4101: 'a': unreferenced local variable
+c:\users\pepa\google drive\škola\vš\poznamky\bc2 zim\programovacie_techniky\cvika\cvicenie 06 25.10.2018\zaklady c++\zaklady c++\source.cpp(23): warning C4101: 'b': unreferenced local variable
+  Zaklady C++.vcxproj -> C:\Users\Pepa\Google Drive\Škola\VŠ\poznamky\bc2 zim\programovacie_techniky\Cvika\Cvicenie 06 25.10.2018\Zaklady C++\Debug\Zaklady C++.exe
+  Zaklady C++.vcxproj -> C:\Users\Pepa\Google Drive\Škola\VŠ\poznamky\bc2 zim\programovacie_techniky\Cvika\Cvicenie 06 25.10.2018\Zaklady C++\Debug\Zaklady C++.pdb (Full PDB)
